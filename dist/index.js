@@ -4,12 +4,12 @@
  */
 module.exports={
 
-      200 : "OK",
-      201 : "CREATED",
-      202 : "ACCEPTED",
-      203 : "NON_AUTHORATIVE",
-      204 : "NO_CONTENT",
-      205 : "RESET_CONTENT",
-      206 : "PARTIAL_CONTENT"
+      200 : "Ok",
+      201 : "Created",
+      202 : "Accepted",
+      203 : "Non Authorative",
+      204 : "No Content",
+      205 : "Reset Content",
+      206 : "Partial Content"
 
 }
