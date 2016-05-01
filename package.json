@@ -2,7 +2,7 @@
   "name": "http_status_codes",
   "version": "2.0.0",
   "description": "http_status_code module allows user to refer http status codes based on numerical format or text format",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha test/**/*.js "
   },
@@ -17,5 +17,17 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^2.4.5"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajRanjan/http_status_codes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RajRanjan/http_status_codes/issues"
+  },
+  "homepage": "https://github.com/RajRanjan/http_status_codes#readme"
 }
