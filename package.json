@@ -1,6 +1,6 @@
 {
   "name": "http_status_codes",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "http_status_code module allows user to refer http status codes based on numerical format or text format",
   "main": "dist/index.js",
   "scripts": {
