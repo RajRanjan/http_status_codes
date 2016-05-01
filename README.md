@@ -15,7 +15,7 @@ npm install http_status_codes
 ```
 var httpStatus = require('http_satatus_codes');
 
-httpStatus.200
+httpStatus[200]
 
 ```
 
