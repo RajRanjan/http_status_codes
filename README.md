@@ -15,7 +15,9 @@ npm install http_status_codes
 ```
 var httpStatus = require('http_satatus_codes');
 
-httpStatus[200]
+httpStatus[200] //This will give a value of Ok
+
+httpStatus[500] //This will give a value of Internal Server Error
 
 ```
 
